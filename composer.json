@@ -1,0 +1,9 @@
+{
+    "name": "olivier/lyon-php-todo-objet",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Todo\\": "src/"
+        }
+    }
+}
